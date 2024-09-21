@@ -69,6 +69,8 @@ streamlit run app.py
 
 **Result**: The app generates an image of a peaceful mountain landscape illuminated by the colors of the sunset.
 
+https://github.com/user-attachments/assets/cb57b9d4-51d5-4886-b0e6-ef76bbe92487
+
 ## **Notes**
 
 - **CUDA Support**: If you have a compatible NVIDIA GPU, the app will use CUDA for faster image generation. Ensure that the correct version of PyTorch with CUDA support is installed.
