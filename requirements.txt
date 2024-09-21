@@ -1,0 +1,7 @@
+streamlit==1.26.0
+torch==2.0.1
+diffusers==0.24.0
+transformers==4.33.0
+safetensors==0.3.3
+torchvision==0.15.2
+Pillow==9.5.0
